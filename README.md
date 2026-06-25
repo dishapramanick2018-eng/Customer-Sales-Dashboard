@@ -89,19 +89,7 @@ This dashboard enables businesses to:
 
 ---
 
-## 📷 Dashboard Preview
-
-<img width="1000" alt="Customer Sales Dashboard" src="ADD_SCREENSHOT_HERE">
-
-> Add a screenshot of your Tableau dashboard here for a visual preview.
-
----
-
 ## 🔗 Live Dashboard
-
-### Tableau Public Dashboard
-
-View the interactive dashboard here:
 
 **Customer Sales Analytics Dashboard**
 
